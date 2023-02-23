@@ -7,17 +7,15 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="zd2/Program.cs">
     <Files>
-      <File FileName="day2/Program.cs" Line="16" Column="20" />
-      <File FileName="zd2/Program.cs" Line="11" Column="40" />
+      <File FileName="day2/Program.cs" />
+      <File FileName="zd2/Program.cs" Line="14" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="day2" expanded="True">
+          <Node name="day2" expanded="True" selected="True">
             <Node name="day2" expanded="True" />
-            <Node name="zd2" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="zd2" expanded="True" />
           </Node>
         </State>
       </Pad>
