@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 2/Практика/day2/zd2/zd2.csproj": {}
+    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 2/zd2/zd2.csproj": {}
   },
   "projects": {
-    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 2/Практика/day2/zd2/zd2.csproj": {
+    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 2/zd2/zd2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 2/Практика/day2/zd2/zd2.csproj",
+        "projectUniqueName": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 2/zd2/zd2.csproj",
         "projectName": "zd2",
-        "projectPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 2/Практика/day2/zd2/zd2.csproj",
+        "projectPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 2/zd2/zd2.csproj",
         "packagesPath": "/Users/nikitaptashinskiy/.nuget/packages/",
-        "outputPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 2/Практика/day2/zd2/obj/",
+        "outputPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 2/zd2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikitaptashinskiy/.nuget/NuGet/NuGet.Config"
