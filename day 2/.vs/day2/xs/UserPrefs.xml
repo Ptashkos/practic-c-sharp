@@ -1,29 +1,32 @@
-﻿<Properties StartupConfiguration="{19070300-6208-4742-B2E2-8C6D21C22FCD}|Default">
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{292CC6BF-65A1-4B2B-BBAF-F7E366CEEEE3}|Default">
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="day2/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.zd6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zd6/Program.cs">
     <Files>
       <File FileName="zd2/Program.cs" Line="13" Column="2" />
       <File FileName="day2/Program.cs" Line="15" Column="2" />
+      <File FileName="zd3/Program.cs" Line="11" Column="97" />
+      <File FileName="zd4/Program.cs" Line="17" Column="20" />
+      <File FileName="zd5/Program.cs" Line="12" Column="16" />
+      <File FileName="zd6/Program.cs" Line="22" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="day2" expanded="True">
-            <Node name="zd1" expanded="True" selected="True" />
-            <Node name="zd2" expanded="True" />
-          </Node>
+          <Node name="day2" expanded="True" />
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.zd4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.zd10 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.zd9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.zd5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.zd7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.zd8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.zd4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.zd3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd6 FirstBuild="True" />
 </Properties>
