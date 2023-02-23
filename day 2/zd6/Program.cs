@@ -13,10 +13,4 @@ for (double i = a; i<=b; i+=h)
     x = x + h;
     Console.WriteLine(y);
 }
-//while (x>=b)
-//{
- //   y = Math.Tan(x);
-   // x = x + h;
-    //Console.WriteLine(y);
-//}
 Console.ReadLine();
