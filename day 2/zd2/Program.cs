@@ -5,7 +5,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 int chast = m % n;
 if (chast == 0)
 {
-    Console.WriteLine($"Частное от деления чисел {m}/{n} равно {chast}");
+    Console.WriteLine($"Частное от деления чисел {m}/{n} равно {m/n}");
 }
 else
 {

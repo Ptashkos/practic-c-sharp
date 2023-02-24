@@ -1,6 +1,6 @@
-﻿<Properties StartupConfiguration="{8C23889B-E75B-4D25-B367-EF46929DB7B6}|Default">
+﻿<Properties StartupConfiguration="{9CB67A0D-E8A8-4AA1-9274-81B3EFB23A65}|Default">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.zd2 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
@@ -8,14 +8,17 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="zd2/Program.cs">
     <Files>
-      <File FileName="day 3/Program.cs" Line="8" Column="20" />
-      <File FileName="zd2/Program.cs" Line="1" Column="6" />
+      <File FileName="day 3/Program.cs" Line="27" Column="2" />
+      <File FileName="zd2/Program.cs" Line="36" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="day 3" expanded="True">
-            <Node name="zd2" expanded="True" />
+            <Node name="zd1" expanded="True" />
+            <Node name="zd2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>

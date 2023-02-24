@@ -2,7 +2,7 @@
 double x = Convert.ToDouble(Console.ReadLine());
 double a = 0;
 int n = 10;
-double b = 3.14 / 4;
+double b = Math.PI / 4;
 double h = (b - a) / n;
 double ix = a;
 double y = 0;

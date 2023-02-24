@@ -22,6 +22,6 @@ class A
     }
     public void func()
     {
-        Console.WriteLine($"Результат вычисления заданной функции равен {Math.Pow(a + b, 3)}");
+        Console.WriteLine($"Результат вычисления заданной функции равен {Math.Pow(a + b, 1/3)}");
     }
 }
