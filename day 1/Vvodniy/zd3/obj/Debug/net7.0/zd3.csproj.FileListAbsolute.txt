@@ -1,0 +1,15 @@
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/bin/Debug/net7.0/zd3
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/bin/Debug/net7.0/zd3.deps.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/bin/Debug/net7.0/zd3.runtimeconfig.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/bin/Debug/net7.0/zd3.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/bin/Debug/net7.0/zd3.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.csproj.AssemblyReference.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.AssemblyInfoInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.AssemblyInfo.cs
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.csproj.CoreCompileInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/refint/zd3.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/zd3.genruntimeconfig.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/zd3/obj/Debug/net7.0/ref/zd3.dll

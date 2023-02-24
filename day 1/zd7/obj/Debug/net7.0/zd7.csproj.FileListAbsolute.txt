@@ -1,0 +1,15 @@
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/bin/Debug/net7.0/zd7
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/bin/Debug/net7.0/zd7.deps.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/bin/Debug/net7.0/zd7.runtimeconfig.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/bin/Debug/net7.0/zd7.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/bin/Debug/net7.0/zd7.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.csproj.AssemblyReference.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.AssemblyInfoInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.AssemblyInfo.cs
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.csproj.CoreCompileInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/refint/zd7.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/zd7.genruntimeconfig.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/Debug/net7.0/ref/zd7.dll
