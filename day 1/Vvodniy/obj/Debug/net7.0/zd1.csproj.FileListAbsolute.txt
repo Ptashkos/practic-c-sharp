@@ -13,3 +13,11 @@
 /Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/obj/Debug/net7.0/Vvodniy.pdb
 /Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/obj/Debug/net7.0/zd1.genruntimeconfig.cache
 /Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/Vvodniy/obj/Debug/net7.0/ref/Vvodniy.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/zd1.csproj.AssemblyReference.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/zd1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/zd1.AssemblyInfoInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/zd1.AssemblyInfo.cs
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/zd1.csproj.CoreCompileInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/Vvodniy.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/refint/Vvodniy.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/Vvodniy/obj/Debug/net7.0/Vvodniy.pdb

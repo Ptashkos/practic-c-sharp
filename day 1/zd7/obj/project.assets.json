@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/zd7.csproj",
+      "projectUniqueName": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd7/zd7.csproj",
       "projectName": "zd7",
-      "projectPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/zd7.csproj",
+      "projectPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd7/zd7.csproj",
       "packagesPath": "/Users/nikitaptashinskiy/.nuget/packages/",
-      "outputPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd7/obj/",
+      "outputPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd7/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nikitaptashinskiy/.nuget/NuGet/NuGet.Config"
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
       }
     }
   }

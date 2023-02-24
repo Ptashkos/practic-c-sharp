@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd5/zd5.csproj": {}
+    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd5/zd5.csproj": {}
   },
   "projects": {
-    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd5/zd5.csproj": {
+    "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd5/zd5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd5/zd5.csproj",
+        "projectUniqueName": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd5/zd5.csproj",
         "projectName": "zd5",
-        "projectPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd5/zd5.csproj",
+        "projectPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd5/zd5.csproj",
         "packagesPath": "/Users/nikitaptashinskiy/.nuget/packages/",
-        "outputPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/День 1/Vvodniy/zd5/obj/",
+        "outputPath": "/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 1/zd5/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nikitaptashinskiy/.nuget/NuGet/NuGet.Config"
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
         }
       }
     }
