@@ -1,0 +1,15 @@
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/bin/Debug/net7.0/zd1
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/bin/Debug/net7.0/zd1.deps.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/bin/Debug/net7.0/zd1.runtimeconfig.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/bin/Debug/net7.0/zd1.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/bin/Debug/net7.0/zd1.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.csproj.AssemblyReference.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.AssemblyInfoInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.AssemblyInfo.cs
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.csproj.CoreCompileInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/refint/zd1.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/zd1.genruntimeconfig.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/zd1/obj/Debug/net7.0/ref/zd1.dll
