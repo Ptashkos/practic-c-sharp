@@ -16,4 +16,8 @@ catch (FormatException ex)
 {
     Console.WriteLine(ex.Message);
 }
+catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}
 Console.ReadLine();

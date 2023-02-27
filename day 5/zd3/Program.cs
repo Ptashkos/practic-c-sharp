@@ -12,6 +12,13 @@
     Console.WriteLine($"Периметр первого треугольника равен {P1}, площадь равна {S1}");
     Console.WriteLine($"Периметр второго треугольника равен {P2}, площадь равна {S2}");
     Console.WriteLine($"Периметр третьего треугольника равен {P3}, площадь равна {S3}");
+    static void TrianglePS(double a, out double P, out double S)
+    {
+        P = 0;
+        S = 0;
+        P = 3 * a;
+        S = (a * a) * (Math.Sqrt(3) / 4);
+    }
 }
 
 catch (DivideByZeroException ex)
@@ -23,11 +30,5 @@ catch (FormatException ex)
     Console.WriteLine(ex.Message);
 }
 
+
 Console.ReadLine();
-static void TrianglePS(double a, out double P, out double S)
-{
-    P = 0;
-    S = 0;
-    P = 3 * a;
-    S = (a * a) * (Math.Sqrt(3) / 4);
-}

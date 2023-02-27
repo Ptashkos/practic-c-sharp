@@ -1,0 +1,15 @@
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/bin/Debug/net7.0/ffd
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/bin/Debug/net7.0/ffd.deps.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/bin/Debug/net7.0/ffd.runtimeconfig.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/bin/Debug/net7.0/ffd.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/bin/Debug/net7.0/ffd.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.csproj.AssemblyReference.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.AssemblyInfoInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.AssemblyInfo.cs
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.csproj.CoreCompileInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/refint/ffd.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ffd.genruntimeconfig.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 5/ffd/obj/Debug/net7.0/ref/ffd.dll

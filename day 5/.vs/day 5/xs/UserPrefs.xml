@@ -1,6 +1,29 @@
-﻿<Properties StartupConfiguration="{2C6F114A-D574-44E2-BC4C-4A6BB675E404}|Default">
+﻿<Properties StartupConfiguration="{03ACC02B-A015-4AA4-91AF-B94F70329652}|Default">
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zd1/Program.cs">
+    <Files>
+      <File FileName="zd3/Program.cs" Line="22" Column="2" />
+      <File FileName="zd1/Program.cs" Line="27" Column="2" />
+      <File FileName="zd2/Program.cs" Line="9" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="day 5" expanded="True">
+            <Node name="zd1" expanded="True" />
+            <Node name="zd2" expanded="True" />
+            <Node name="zd3" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd3 FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.zd3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
