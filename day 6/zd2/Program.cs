@@ -1,5 +1,5 @@
 ﻿int n = 5;
-double [] a = { -2, 3, -1, 2, 0, -6 };
+double [] a = { -1, 1, 2, 2, 0, -1 };
 double num1 = a.Length;
 double num2 = 0;
 for (int i = 0; i < a.Length; i++) num2 = num2 + a[i];
@@ -9,7 +9,7 @@ for (int i = 0; i < a.Length; i++)
     if (a[i] < 0) a[i] = a[i] + 0.5;
     else if (a[i] < result_sr) a[i] = 0.1;
 }
-Array.Sort(a);
+//Array.Sort(a);
 for (int i = 0; i < a.Length; i++) Console.Write($"{a[i]} ");
 
 Console.Write("Введите число k - ");

@@ -1,8 +1,37 @@
-﻿<Properties StartupConfiguration="{C2F65F6E-1524-4D4F-BD85-ECD053ABDB7C}|Default">
+﻿<Properties StartupConfiguration="{C13E9443-74AA-4C21-9589-15C28A716B1D}|Default">
   <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd5 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.zd5 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.zd4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zd2/Program.cs">
+    <Files>
+      <File FileName="zd2/Program.cs" Line="42" Column="13" />
+      <File FileName="zd1/Program.cs" Line="6" Column="19" />
+      <File FileName="zd3/Program.cs" Line="7" Column="39" />
+      <File FileName="zd4/Program.cs" Line="3" Column="1" />
+      <File FileName="zd5/Program.cs" Line="19" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="day 6" expanded="True">
+            <Node name="zd1" expanded="True" />
+            <Node name="zd2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="zd3" expanded="True" />
+            <Node name="zd4" expanded="True" />
+            <Node name="zd5" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.zd3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
