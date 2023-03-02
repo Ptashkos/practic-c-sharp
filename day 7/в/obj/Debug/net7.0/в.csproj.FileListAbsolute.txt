@@ -1,0 +1,15 @@
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/bin/Debug/net7.0/в
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/bin/Debug/net7.0/в.deps.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/bin/Debug/net7.0/в.runtimeconfig.json
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/bin/Debug/net7.0/в.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/bin/Debug/net7.0/в.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.csproj.AssemblyReference.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.AssemblyInfoInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.AssemblyInfo.cs
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.csproj.CoreCompileInputs.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/refint/в.dll
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.pdb
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/в.genruntimeconfig.cache
+/Users/nikitaptashinskiy/Documents/🙈Практика🙈/tasks/day 7/в/obj/Debug/net7.0/ref/в.dll

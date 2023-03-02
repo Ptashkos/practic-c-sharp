@@ -2,6 +2,7 @@
 string sentence = Console.ReadLine();
 
     string[] words = sentence.Split(' ');
+    
     string temp = words[0];
     words[0] = words[words.Length - 1];
     words[words.Length - 1] = temp;

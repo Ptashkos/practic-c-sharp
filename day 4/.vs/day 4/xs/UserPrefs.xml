@@ -1,35 +1,36 @@
 ﻿<Properties StartupConfiguration="{30D29428-73F2-43D4-829E-E5967B5E60EE}|Default">
-  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="zd5/Program.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.zd5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zd2/Program.cs">
     <Files>
       <File FileName="zd5/Program.cs" Line="6" Column="21" />
-      <File FileName="zd1/Program.cs" Line="12" Column="19" />
-      <File FileName="zd2/Program.cs" Line="12" Column="30" />
-      <File FileName="zd3/Program.cs" Line="10" Column="2" />
-      <File FileName="zd4/Program.cs" Line="21" Column="2" />
+      <File FileName="zd1/Program.cs" />
+      <File FileName="zd2/Program.cs" Line="8" Column="1" />
+      <File FileName="zd3/Program.cs" />
+      <File FileName="zd4/Program.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="day 4" expanded="True">
-            <Node name="zd3" expanded="True" />
-            <Node name="zd4" expanded="True" />
-            <Node name="zd5" expanded="True">
+            <Node name="zd2" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="zd3" expanded="True" />
+            <Node name="zd4" expanded="True" />
+            <Node name="zd5" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.zd3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.zd4 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

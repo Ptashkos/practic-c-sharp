@@ -1,7 +1,32 @@
-﻿<Properties StartupConfiguration="{3F0B545D-793C-417F-8887-AAF03EA0062C}|Default">
-  <MonoDevelop.Ide.ItemProperties.zd2.2 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.zd3 PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{25085CF5-7FF9-4208-B364-6D4261CE9F58}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.zd2.2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.zd1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.zd2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="zd3/Program.cs">
+    <Files>
+      <File FileName="zd1/Program.cs" Line="5" Column="1" />
+      <File FileName="zd2/Program.cs" Line="23" Column="20" />
+      <File FileName="zd3/Program.cs" Line="22" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="day 7" expanded="True">
+            <Node name="zd1" expanded="True" />
+            <Node name="zd2" expanded="True" />
+            <Node name="zd3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.zd3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
